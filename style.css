@@ -1,0 +1,66 @@
+/* .info{
+    font-weight: 900;
+    font-family:sans-serif;
+    color: cadetblue; 
+    border-left: 5px solid purple;
+    padding-left:10px; 
+    margin-top: px;  
+} */
+.info{
+    padding-top:20px;
+}
+.but1{
+    padding: 5px 10px;
+    background-color: red;
+    color: white;
+}
+.hide{
+    text-align: center;
+}
+.but-2{
+    color: white;
+    background-color: blue;
+    font-weight: bold;
+    border-radius: 9px;
+    text-align: center;
+    border: transparent;
+}
+table th {
+    font-weight:800;
+    height: 50px;
+    
+    width: 19%;
+       
+}
+table td{
+    border-collapse: collapse;
+    border-left: 5px solid purple;
+    margin-top:15px;
+    border: 1px solid black;
+}
+#btn3{       
+    text-align: center;    
+    border-radius:4px;
+    margin-top: 30px;
+}
+#btn4{
+    background:red;
+    color: white;
+    border:none;
+    border-radius: 5px;
+    padding: 12px;
+}
+#show{
+    
+    padding-right: 5px;
+}
+.but4{
+    background:red;
+    color: white;
+    border:none;
+    border-radius: 5px;
+    padding: 12px;
+}
+#but1{
+    margin-bottom: 30px;
+}
